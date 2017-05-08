@@ -1,0 +1,39 @@
+/*
+  Start adding CSS here
+*/
+body{
+  font-family: "gill sans";
+  font size: 1em;
+  background-color: #333538;
+}
+h1 {
+    color: White;
+}
+div {
+  margin: auto;
+  width: 95%;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #bcbaba;
+}
+
+th{
+  background-color: white;
+  color: black;
+}
+
+th, td {
+    border: 1px, grey;
+    text-align: center;
+    padding: 10px;
+}
+tr {
+  background-color: #d4d4d8;
+  }
+tr:hover{
+    background-color: #cc16ad;
+    color: white;
+}
